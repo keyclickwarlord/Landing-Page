@@ -1,0 +1,104 @@
+body {
+    background-color: white;
+    margin: 0;
+    white-space: nowrap;
+}
+.header-hero-wrapper {
+    background-color: tan;
+    width: 100%;
+    left: 0;
+    top: 0;
+    color: white;
+    padding-bottom: 50px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    
+}   
+.owner {
+    margin-left: 25px;
+    font-family: cursive;
+    margin-top: 5px;
+    font-weight: bold;
+    font-style: italic;
+    border: double 5px pink;
+    padding: 10px;
+    border-radius: 10%;
+}
+li {
+    display: inline;
+    margin-right: 25px;
+}
+.header-photo {
+    height: 300px;
+    width: 400px;
+    display: flex;
+    border: 10px solid lightgray;
+    border-radius: 5%;
+}
+.all-header-contents{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    
+}
+.sample-work-wrapper {
+    background-color: lightblue;
+    padding: 60px;
+    
+    
+}
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.cool {
+    height: 200px;
+    width: 200px;
+    border: 10px solid pink;
+    border-radius: 10%;
+    
+}
+.list-photos {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.quote-wrap{
+    background-color: pink;
+    padding: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    
+}
+.quote{
+    color: white;
+    font-size: 25px;
+    font-style: italic;
+}
+.quote-guy {
+    color: tan;
+    font-weight: 700;
+    font-size: 20px;
+}
+.contents-p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+.copyright-wrap {
+    background-color: lightgrey;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+}    
+.copyright {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
