@@ -43,10 +43,12 @@ li {
     align-items: center;
     gap: 20px;
     
+    
 }
 .sample-work-wrapper {
     background-color: lightblue;
     padding: 60px;
+    
     
     
 }
@@ -68,6 +70,7 @@ h2 {
     display: flex;
     justify-content: space-between;
     gap: 20px;
+    
 }
 .quote-wrap{
     background-color: pink;
